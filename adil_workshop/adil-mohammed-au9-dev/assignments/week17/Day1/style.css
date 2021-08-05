@@ -1,0 +1,43 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
+    
+  }
+  body {
+    margin: 40px;
+  }
+  form{
+    width: 210px;
+    
+  }
+  input{
+    display: inline-block;
+    width: 205px;
+    margin: 10px 0;
+    padding: 2px 0;
+    font-size: 25px;
+    border-block-start-color: darkcyan;
+    border-block-end-color: darkcyan;
+    border-left-color: darkcyan;
+    border-right-color: darkcyan;
+    
+  }
+  label {
+    display: inline-block;
+    width: 90px;
+    color: darkcyan;
+    text-transform: uppercase;
+    margin: 5px 0;
+  }
+  
+  button{
+    margin-top: 5px;
+    float: right;
+    padding: 5px 10px;
+    border: 1px solid darkcyan;
+    background-color: skyblue;
+    border-radius: 5px;
+    text-transform: uppercase;
+    color: rgb(29, 70, 70);
+  }
+  

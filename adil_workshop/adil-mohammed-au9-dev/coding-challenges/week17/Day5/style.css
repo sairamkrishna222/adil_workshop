@@ -1,0 +1,23 @@
+#telangana{
+    background-color: mediumpurple;
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+    
+    
+    }
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    ul{
+        list-style-type: none;
+        padding: 20px;
+        width: 500px;
+    }
+    
+    li{
+        padding: 10px;
+        background-color: lightgreen;
+    }

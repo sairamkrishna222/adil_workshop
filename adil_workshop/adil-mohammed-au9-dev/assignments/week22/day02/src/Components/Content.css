@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(238, 215, 82);
+}
+
+.content {
+  margin: 100px 50px 100px 50px;
+}
+
+h1 {
+  color: rgb(131, 79, 31);
+  font-style: unset;
+}

@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(197, 234, 248);
+  }
+  
+  .content {
+    margin: 0;
+  }
+  .content > img {
+    margin: 50px 50px 50px 500px;
+    border-radius: 3px;
+  }
+  
+  .content > .text {
+    /* border: 2px solid aliceblue; */
+    width: 50%;
+    margin: 0 0 50px 300px;
+    text-align: center;
+  }
+  
+  h1 {
+    color: rgb(47, 76, 236);
+    font-style: unset;
+    margin: 10px;
+  }
+  
+  .text > p {
+    color: rgb(78, 75, 75);
+    padding: 2px;
+  }

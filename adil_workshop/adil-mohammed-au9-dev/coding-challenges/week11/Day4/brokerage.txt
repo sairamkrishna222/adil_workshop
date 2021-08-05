@@ -1,0 +1,58 @@
+Stock market apps: key features:
+
+Check-in. The authorization process should be as simple as possible and, most importantly, secure (when it comes to finances, the issue of data security is especially relevant). Ideally, you must offer several registration options (for example, through social networks, phone number, email). Modern applications should also support the Touch ID system (E-Trade supports it, and you are interested to develop a trading platform of the same sort, aren't you?).
+
+
+A user page,needed to manage personal data. The information contained herein should be updatable and editable.
+
+
+Placing trades on stocks or mutual funds with the possibility to view and edit the data you need. The feature is a key one - give it the most attention while creating your custom trading software.
+
+
+Payments and transactions. The feature is useful for executing orders and involves the possibility to monitor and manage flow-of-funds.
+
+
+Newsfeed. You can be surprised, but this is an important part of the stock market app development. The matter is that the stock market is very sensitive to any event (both local and global ones). Say, if a popular restaurant brand has been caught doing wrong, there are chances of a fall of its stocks, and it is reasonable to buy them while they are still cheap. In fact, the news should be collected from a variety of sources including financial analysis reports, expert opinions, etc. The feature notifies users about the news of the trading industry, exchange rates, and other things in real-time, allowing participants to the market to remain on the alert.
+
+
+List of updatable portfolios of the stock market. A user should have the ability to track them in real-time (and filter the output), as well as monitor his positions.
+
+
+
+Deposits. The feature offers an easy way to check the status of the deposit - without any effort and at any time. Don’t forget to implement it if you’re willing to understand how to build a trading system with a fair chance to be in high demand.
+
+
+
+Quote monitoring. Users should be able to see all the quote updates in a real-time mode.
+
+
+Search. Make life easier for users by allowing them to look for the information they need through a convenient search engine.
+
+
+Analytics. Participants of the stock market will appreciate the opportunity to observe the statistics and analyze the results of transactions, trades, etc. A good decision is to offer them different kinds of performance charts and reports.
+
+
+
+Sorting and filtering systems won't be superfluous either. They’ll help users to better navigate in your stock market web or mobile application and output data in a user-friendly format.
+
+
+
+Push notification. And, of course, don’t forget about the notification system. It’s the best way to keep in touch with the user.
+
+
+
+
+			 >>Trading system design<<
+
+The stock market is a specific area, one wrong move here can lead to failure. The following factors should be taken into account when designing interfaces:
+
+
+You should start thinking about UI/UX at the stage of formulating ideas and requirements for the product.
+
+It is important to perform usability testing because this is your only chance to make the product consistent with the original plan.
+
+UI/UX should facilitate the process of stock market app development. Prototyping and similar tools offer technical support and help developers understand how users will interact with the app.
+
+
+
+

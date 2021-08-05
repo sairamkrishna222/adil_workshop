@@ -1,0 +1,53 @@
+							Day5 Assingment 
+
+Questions:
+1. What happens when you hit www.google.com in your browser.
+2. What is a dns.
+
+
+Install python3 and vscode/pycharm
+
+
+
+A1) What happens when you hit www.google.com in your browser?
+
+	* When we serech for the Google.com in the Browser, the Browser try to pull the IP Address
+	from the DNS.
+	
+	* DNS holds all the Domain names and the IP Address. It also keeps the mapping of the Domain and IP Adress
+	
+	* When a user Serech for the Google.com in the browser, the browser connect to the DNS and Pull the IP Address
+
+	* With the hlep of IP Address the Browser connect to the Server.
+ 
+/	* Then the browser runs the code for the Google.com and it open the Web Page.
+
+
+
+
+
+
+ A2) What is a dns?
+
+	* DNS stands for ("Domain Name Server).
+
+	* DNS keeps the Mapping all the Domain name and it maintains all the IP Adress.
+
+	* DNS hleps the user to pull the Website to his browser, when the user type URL in the Browser.
+
+	* When User serech for any URL, the Browser connects with the DNS and Pull the Info from the DNS.
+
+	* Now the Browser with the help of IP Adress, connect to the Server of the particular Web site.
+
+	* When the Browser connects with the Server the URL gets open on the Browser.
+
+	* Instead of using Website name We can also use IP Address to open the Page.
+
+
+
+  		**VS code and Pyathon3 has been Installed**
+
+	
+
+
+

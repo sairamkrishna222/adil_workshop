@@ -1,0 +1,57 @@
+form {
+  background-color: grey;
+  color: white;
+  width: 250px;
+  margin: 20px 20px;
+  min-height: 360px;
+  
+  
+    h2{
+        margin-bottom: 35px;
+        padding: 20px 0;
+        color: rgb(45, 204, 67);
+    }
+  .user {
+    
+    * {
+      display: block;
+      margin-left: 20px;
+    }
+    
+  }
+
+  .pass {
+    margin: 10px 0;
+    * {
+      display: block;
+      margin-left: 20px;
+    }
+    
+  }
+
+  button {
+    text-align: center;
+    margin-left: 20px;
+    margin-top: 30px;
+    cursor: pointer;
+    color: orange;
+    
+    display: block;
+  }
+
+  .radio{
+      display: inline-block;
+      margin-left: 20px;
+  }
+  .terms{
+      display: inline-block;
+  }
+  .checkbox{
+      display: inline;
+      margin-left: 20px;
+      
+  }
+  .conditions{
+    display: inline;
+}
+}

@@ -1,0 +1,86 @@
+Q
+    What are the components of a process?
+
+
+
+Answer:
+      
+
+      These components reflect the services made available by the O.S.
+
+1 Process Management:
+
+        Process is a program in execution --- numerous processes to choose from in a multiprogrammed system,
+
+	Process creation/deletion (bookkeeping)
+
+	Process suspension/resumption (scheduling, system vs. user)
+
+	Process synchronization
+
+	Process communication
+
+	Deadlock handling
+
+2 Memory Management: 
+
+	Maintain bookkeeping information
+
+	Map processes to memory locations
+
+	Allocate/deallocate memory space as requested/required
+
+3 I/O Device Management:
+
+	Disk management functions such as free space management, storage allocation, fragmentation removal, head scheduling
+
+	Consistent, convenient software to I/O device interface through buffering/caching, custom drivers for each device.
+
+
+4 File System:
+
+     Built on top of disk management
+
+	File creation/deletion.
+
+	Support for hierarchical file systems
+
+	Update/retrieval operations: read, write, append, seek
+
+	Mapping of files to secondary storage
+
+5. Protection:
+
+      Controlling access to the system
+
+	Resources --- CPU cycles, memory, files, devices
+
+	Users --- authentication, communication
+
+	Mechanisms, not policies
+
+6. Network Management:
+
+   Often built on top of file system
+
+	TCP/IP, IPX, IPng
+
+	Connection/Routing strategies
+
+	``Circuit'' management --- circuit, message, packet switching
+
+	Communication mechanism
+
+	Data/Process migration
+
+
+7. User Interface:
+
+	Character-Oriented shell --- sh, csh, command.com ( User replaceable)
+
+	GUI --- X, Windows 95
+
+
+
+
+

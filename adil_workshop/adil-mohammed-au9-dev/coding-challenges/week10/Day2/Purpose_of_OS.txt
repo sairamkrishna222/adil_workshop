@@ -1,0 +1,18 @@
+QUESTION:
+
+
+Explain the main purpose of an operating system?
+
+
+
+ANSWER:
+
+	An Operating System acts as a communication bridge (interface) between the user and computer hardware. 
+	The purpose of an operating system is to provide a platform on which a user can execute programs in a convenient and efficient manner.
+
+	An operating system is a piece of software that manages the allocation of computer hardware. 
+	The coordination of the hardware must be appropriate to ensure the correct working of 
+	the computer system and to prevent user programs 
+	from interfering with the proper working of the system.
+	The main goal of the Operating System is to thus make the computer environment more convenient to use 
+	and the secondary goal is to use the resources in the most efficient manner.

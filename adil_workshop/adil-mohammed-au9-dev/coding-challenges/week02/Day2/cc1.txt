@@ -1,0 +1,46 @@
+Q1.
+
+Write a program that takes input from the user as marks in 5 subjects and assigns a
+grade according to the following rules:
+
+
+Perc = (s1+s2+s3+s4+s5)/5.
+
+
+A, if Perc is 90 or more B, if Perc is between 70 and 90(not equal to 90) C, if Perc is
+between 50 and 70(not equal to 90) D, if Perc is between 30 and 50(not equal to 90) E,
+if Perc is less than 30
+
+
+Answer:
+
+
+Subject1 = 70
+Subject2 = 80
+Subject3 = 60
+Subject4 = 76
+Subject5 = 67
+
+total = (Subject1+Subject2+Subject3+Subject4+Subject5)/5
+
+if (total>=90):
+
+    print("Grade A")
+
+elif (total>70 and total<90):
+
+    print("Grade B")
+
+elif (total>50 and total<70):
+
+    print("Grade C")    
+
+elif (total>30 and total<50):
+
+    print("Grade D")
+
+else:
+
+    print("Grade E")    
+
+

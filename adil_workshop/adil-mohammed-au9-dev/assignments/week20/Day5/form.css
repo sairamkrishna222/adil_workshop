@@ -1,0 +1,50 @@
+.login {
+  margin-left: 100px;
+  background-color: #c7775a;
+  width: 250px;
+  height: 250px;
+  color: white;
+  border-radius: 5px;
+}
+
+h2 {
+  font-size: xx-large;
+}
+
+.user input {
+  margin-left: 10px;
+  height: 20px;
+}
+
+.user label {
+  font-size: 20px;
+}
+
+.pass input {
+  margin-left: 14px;
+  height: 20px;
+}
+
+.pass label {
+  font-size: 20px;
+}
+
+.user {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.pass {
+  display: block;
+  margin-bottom: 20px;
+}
+
+button {
+  font-size: larger;
+  margin-left: 70px;
+  border-radius: 4px;
+  background-color: white;
+  cursor: pointer;
+  border-color: white;
+}
+/*# sourceMappingURL=form.css.map */

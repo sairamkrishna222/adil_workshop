@@ -1,0 +1,52 @@
+.login {
+  margin-left: 100px;
+  background-color: rgb(199, 119, 90);
+  width: 250px;
+  height: 250px;
+  color: white;
+//   border: 1px solid blue; 
+  border-radius: 5px;
+  
+}
+h2 {
+//   color: white;
+  font-size: xx-large;
+}
+
+.user {
+  input {
+    margin-left: 10px;
+    height: 20px;
+  }
+  label {
+    font-size: 20px;
+  }
+}
+.pass {
+  input {
+    margin-left: 14px;
+    height: 20px;
+  }
+  label {
+    font-size: 20px;
+  }
+}
+
+.user {
+  display: block;
+  margin-bottom: 20px;
+}
+.pass {
+  display: block;
+  margin-bottom: 20px;
+}
+
+button{
+    font-size: larger;
+
+    margin-left: 70px;
+    border-radius: 4px;
+    background-color: white;
+    cursor: pointer;
+    border-color: white;
+}

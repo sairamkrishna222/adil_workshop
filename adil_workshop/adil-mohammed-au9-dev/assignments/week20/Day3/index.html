@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+
+    <p></p>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+      $.ajax({
+        url:"http://jsonplaceholder.typicode.com/comments",
+        type: "get",
+        dataType: "Json",
+        success: function (data) {
+        
+          
+            for (var i=0;i<data.length;i++){
+             
+              delete data[i].name
+              delete data[i].id
+              delete data[i].email
+              if(data[i].body.length> 50){
+                delete data[i].body
+              }
+            }
+            document.querySelector("p").innerHTML=JSON.stringify(data)
+          console.log("1",data) 
+          
+
+        },
+      });
+      
+
+    </script>
+  </body>
+</html>

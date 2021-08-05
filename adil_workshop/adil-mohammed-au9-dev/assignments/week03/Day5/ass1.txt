@@ -1,0 +1,35 @@
+Q1. What is the time complexity of the following code :
+a = 0, i = N
+while i > 0:
+a += i
+i /= 2
+
+
+
+Answer : O(n)
+Because the given i = N int question N = Constant 
+
+
+
+
+
+Q2 What is the time complexity of the following code
+i = n / 2
+ while i < n:
+ j = 2
+ while j < n:
+ j *= 2
+
+Answer: logn
+Because the given  question having nested while  
+
+Q3.
+ count = 0;
+ i = N
+ while i > 0:
+ While j < i:
+ count+=1
+ i /= 2
+
+Answer : nlogn
+The given question have two while the N is running two times one is contant and other  is dividing the N

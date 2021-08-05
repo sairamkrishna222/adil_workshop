@@ -1,0 +1,13 @@
+button {
+    width: 90px;
+    border-radius: 20px;
+    background: brown;
+    color: yellow;
+    transition: width 0.1s linear;
+}
+
+button:hover {
+    width: 200px;
+    background: yellow;
+    color: brown;
+}

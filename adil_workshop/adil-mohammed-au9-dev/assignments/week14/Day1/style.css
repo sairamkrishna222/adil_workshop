@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+h3 {
+    color: grey;
+}
+.header , footer{
+    display: flex;
+    text-align: center;
+    float: center;
+    color: teal;
+    margin: 0;
+    padding: 0;
+    background-color: rebeccapurple;
+    height: 100px;
+}
+
+.main-parent {
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+.items {
+    min-height: 550px;
+    
+}
+nav {
+    flex: 1 20%;
+    background-color: rgb(240, 230, 140);
+}
+nav, ul{
+    list-style: none;
+}
+nav, ul, a {
+    text-decoration: none;
+}
+nav ul a:hover{
+    background-color: white;
+
+     
+}
+article {
+    flex: 1 60%;
+    text-align: center;
+    background-color: white;
+}
+aside {
+    flex: 1 20%;
+    background-color: rgb(240, 230, 140);
+}

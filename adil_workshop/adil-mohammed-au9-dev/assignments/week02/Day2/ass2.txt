@@ -1,0 +1,83 @@
+Q1. 
+Write a user driven program which will will ask users to input two no and perform some
+calculation
+
+Eg
+
+Input no 1: 5
+
+Input no 2: 10
+
+Enter 1 to do addition
+
+Enter 2 to do subtraction
+
+Enter 3 to do multiplication
+
+Enter 4 to do division
+
+
+
+Answer
+
+
+a = int (input("enter number 1: "))
+
+b = int (input("enter number 2: "))
+
+print("what do u want to do") 
+
+print("pres 1 for add") 
+
+print("press 2 for sub") 
+
+print("press 3 for mul")
+
+print("press 4 for division")
+
+c = int(input("enter choice: "))
+
+if(c==1):
+
+    print(a+b)
+
+elif(c==2):
+
+    print(a-b)
+
+elif(c==3):
+
+    print(a*b)    
+
+else:
+    
+    print(a/b)
+    
+
+
+
+
+
+
+Q2.
+
+ Input a no from the user and print if its even or odd.
+
+
+
+
+
+Answer:
+
+
+a = int (input("enter number : "))
+
+if (a % 2==0):
+
+    print("Entered number is Even Number")
+
+else:
+    
+    print("Entered Number is Odd Number")    
+    
+

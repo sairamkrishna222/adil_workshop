@@ -1,0 +1,5 @@
+n = int(input())
+arr = list(map(int,input(5).split()))
+sorted(arr)
+t = len(arr)
+print(arr[t-2])

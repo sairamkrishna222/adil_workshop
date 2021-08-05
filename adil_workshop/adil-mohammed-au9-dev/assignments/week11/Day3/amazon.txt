@@ -1,0 +1,137 @@
+Design Amazon e-commerce web app.
+
+Front-End:
+
+Catalog Management
+
+Categories
+
+	● Search and sort to easily find categories
+	● Manage categories and sub-categories
+	● Feature categories within navigation or on the homepage
+	● Set categories as “active” or “inactive”
+	● Set page URL's and SEO elements for categories
+	● Manage categories thumbnails and images
+Brands:
+
+	● Manage brands
+	● Feature brands on the homepage
+	● Set brands as “active” or “inactive”
+	● Set page URL's and SEO elements for brands
+	● Manage brand logos
+	● Manage products associated with brands
+
+Products:
+
+	● Search and sort to easily find products in certain categories or with specific
+	attributes
+	● Easily manage and edit products
+	● Product fields include name, SKU, product details, additional details, list price,
+	your price, weight, stock, minimum quantity order amount, handling fee and
+	more.
+	● Ability to select options such as featured, free shipping, reviews allowed,
+	require moderation for reviews and more
+	● Add and manage main product image and additional product images
+	● Microsoft Word-like editor for managing content block, such as product details
+	● Feature products on the homepage
+	● Set products as “active” or “inactive”
+	● Add products to a single category or multiple categories
+	● Select product brand
+	● Add and manage product options and option groups
+	● Add and manage related products
+	● Add and manage accessories
+	● Attach and embed YouTube videos
+	● Manage (approve and delete) product reviews
+	● Set product page URL and SEO elements for products
+Back-End:
+
+Content Management
+
+Pages
+
+	● Manage content pages and create new content pages
+	● Edit pages using a Microsoft Word-like content editor
+	● Add images and manage uploaded image library
+	● Image editing and cropping tool
+	● Set page as “active” or “inactive”
+	● Set page URL and SEO elements
+
+Blog:
+	● Manage blog posts
+	● Set blog publish date
+	● Set post as “active” or “inactive”
+	● Add blog summary and full blog post using Microsoft Word-like
+
+content editor:
+
+	● Add images and manage uploaded image library
+	● Select blog category and author
+	● Attached blog posts to product pages
+	● Set post URL and SEO elements
+
+Homepage Banners:
+
+	● Manage homepage banners
+	● Set banner sort orders
+	● Set banner URL or leave unlinked
+	● Set banners as “active” or “inactive”
+
+Navigation:
+
+	● Manage your main navigations including header, side and footer
+	● Add drop down to main navigation
+	● Manage SEO elements on links such as link title
+	● Set links to open in same or new window
+
+Auto Email Messages:
+
+	● Manage main email template design
+	● Set messaging for order status emails
+	● Set messaging for thank you email on product reviews and blog
+
+comment submissions:
+
+Review Management
+
+	● Manage all product reviews
+	● Set reviews to “approved” or delete reviews
+
+Comment Management:
+
+	● Manage all blog comments
+	● Set comments to “approved” or delete comments
+
+Customer Management:
+
+Customers
+
+	● Search and sort to easily find customers by first name and last
+	name
+	● Manage customer accounts
+	● View customer details and previous orders
+	● View individual customers product reviews
+	● Add private comments to a customer
+	● Delete customer accounts
+	● Reset customer passwords
+	● Export customers to Excel
+	● Export customer subscribed to email newsletter to Excel (import
+	capabilities for 3rd party email systems)
+
+DataBase:
+
+Order Management
+
+Orders
+
+	● Search and sort to easily find orders by specific variables
+	● Manage and updated order status
+	● View order number and all customer information
+	● View order information and purchase details (products, tax,
+	shipping, addresses, etc.)
+	● Add private notes to the order
+	● View shipping and billing address maps
+	● Create and manage custom order statuses
+	● Receive email when order is placed
+	● Export orders to Excel
+
+

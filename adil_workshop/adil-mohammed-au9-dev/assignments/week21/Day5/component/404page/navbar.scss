@@ -1,0 +1,22 @@
+.navi {
+  
+  background-color: rgb(31, 158, 148);
+  font-size: large;
+  height: 70px;
+  // border: 2px solid blue;
+  width: 100%;
+  overflow: hidden;
+  
+  
+  .ul {
+      
+      
+    * {
+      text-decoration: none;
+      color: white;
+      list-style: none;
+      float: left;
+      margin: 0 30px;
+    }
+  }
+}

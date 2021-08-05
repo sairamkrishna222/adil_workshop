@@ -1,0 +1,21 @@
+#dynamicTable{
+    color: rgb(255, 0, 0);
+   
+}
+
+table, th, td {
+    border: 1px solid black;
+  }
+
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  th, td {
+    padding: 10px;
+  }
+
+  table {
+      width:400px;
+  }

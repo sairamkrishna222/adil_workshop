@@ -1,0 +1,16 @@
+ul {
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 30px;
+    border: 1px solid grey;
+  }
+  
+  li {
+    display: block;
+    padding-left: 0;
+    line-height: 30px;
+  }
+  .heading {
+    font-weight: bold;
+    line-height: 50px;
+  }

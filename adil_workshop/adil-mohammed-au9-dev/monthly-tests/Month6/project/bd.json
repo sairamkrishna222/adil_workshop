@@ -1,0 +1,97 @@
+{
+  "bookings": [
+    {
+      "id": 3853,
+      "name": "demo",
+      "hotel_name": "demo",
+      "phone": "12345",
+      "email": null,
+      "address": "demo",
+      "restid": null,
+      "person": "demo",
+      "status": "Booking Confirmed"
+    },
+    {
+      "id": 5790,
+      "hotelname": "Roseate House",
+      "name": "rajat",
+      "phone": "12345",
+      "status": "Booking Rejected",
+      "hotelid": "1"
+    },
+    {
+      "id": 5903,
+      "hotelname": "Roseate House",
+      "name": "rajatbb",
+      "phone": "6567",
+      "status": "Pending",
+      "hotelid": "1"
+    },
+    {
+      "id": 8338,
+      "hotelname": "Hotel Sayaji",
+      "name": "rghghhghg",
+      "phone": "456",
+      "status": "Pending",
+      "hotelid": "9"
+    },
+    {
+      "id": 9332,
+      "hotelname": "Hotel Sayaji",
+      "name": "rajat",
+      "phone": "87654323456",
+      "status": "Pending",
+      "hotelid": "9"
+    },
+    {
+      "id": 9748,
+      "hotelname": "Roseate House",
+      "name": "rajat",
+      "phone": "8778787",
+      "date": "2020-12-31",
+      "status": "Pending",
+      "hotelid": "1"
+    },
+    {
+      "id": 2895,
+      "hotelname": "Roseate House",
+      "name": "R Mohammed  Adil",
+      "phone": "12345678",
+      "status": "Pending"
+    },
+    {
+      "id": 6906,
+      "hotelname": "DoubleTree by Hilton",
+      "name": "R mohammed Adil",
+      "date": "2020-12-27",
+      "dateofbooking": "2020-29-12",
+      "phone": "123456",
+      "status": "Pending",
+      "isAuthenticated": false
+    },
+    {
+      "id": 6176,
+      "hotelname": "Amanora The Fern Hotels",
+      "name": "R mohammed Adil",
+      "date": "2020-12-27",
+      "dateofbooking": "2021-01-01",
+      "phone": "2356",
+      "status": "Pending",
+      "isAuthenticated": false
+    },
+    {
+      "id": 5989,
+      "hotelname": "Hotel Sayaji",
+      "name": "kjdfhkf",
+      "phone": "u868387487",
+      "status": "Pending"
+    },
+    {
+      "id": 2684,
+      "hotelname": "The Orchid Hotel",
+      "name": "abc",
+      "phone": "123456",
+      "status": "Pending"
+    }
+  ]
+}
